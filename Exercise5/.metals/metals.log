@@ -239,3 +239,7 @@ WARNING: Unmatched cancel notification for request id 227
 2026.09.21 11:46:55 WARN  no build target for: /home/anders/Desktop/SchoolProjects/CS-1-Semester/PCPP/PCPP-Assignment3/Exercise5/SemaphoreImp.java[0m
 2026.09.21 11:46:55 INFO  no build target found for /home/anders/Desktop/SchoolProjects/CS-1-Semester/PCPP/PCPP-Assignment3/Exercise5/SemaphoreImp.java. Using fallback presentation compiler.[0m
 2026.09.21 11:46:55 INFO  no build target found for /home/anders/Desktop/SchoolProjects/CS-1-Semester/PCPP/PCPP-Assignment3/Exercise5/SemaphoreImp.java. Using fallback presentation compiler.[0m
+2026.09.21 12:03:33 INFO  Shutting down server[0m
+2026.09.21 12:03:33 INFO  Memory monitor stopped[0m
+2026.09.21 12:03:33 INFO  shutting down Metals[0m
+2026.09.21 12:03:33 INFO  Exiting server[0m
