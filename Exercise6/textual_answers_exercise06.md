@@ -22,3 +22,13 @@ Yes, because the return can only happen if the clear happens first. They will al
 ***Your task in this exercise is to write a parallel functional correctness test for CasHistogram. In this test, you must use your CasHistogram class to concurrently count the number of prime factors for the numbers in the range (0, 4999).*** 
 
 ***See TestHistograms.java***
+
+## 6.2
+
+### 6.2.1 - 6.2.4
+
+***See ReadWriteCASLock.java***
+
+### 6.2.5 - 6.26
+
+***See TestLocks.java"***
